@@ -20,6 +20,9 @@
   <img src="https://img.shields.io/badge/GetX-purple?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Provider-5C6BC0?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hosted%20on-Vercel-black?style=flat&logo=vercel" />
+  
+
 </p>
 
 ---
@@ -28,9 +31,25 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdrakibshahriar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdrakibshahriar&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=dracula&hide_border=false" height="195" alt="languages graph"  />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mdrakibshahriar&theme=tokyonight" />
 </p>
+
+  
+</div>
+
+---
+### 🚀 Live Projects (Coming Soon on Vercel)
+
+| Project | Status | Deployment |
+|--------|--------|------------|
+| **Chat App** | 🔧 In Progress | Coming soon |
+| **Flutter Portfolio Site** | 🎨 Design Phase | Coming soon |
+| **Node.js API Backend** | 🔬 Testing | Coming soon |
+
+
+
 
 ---
 
