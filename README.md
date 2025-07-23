@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hive-FFA000?style=flat&logo=hive&logoColor=white" />
   <img src="https://img.shields.io/badge/GetX-purple?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Provider-5C6BC0?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
