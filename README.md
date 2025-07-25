@@ -1,5 +1,5 @@
-<h1 align="center">Hey there, I'm Md. Rakib Shahriar 👋</h1>
-<p align="center">💻 Full-stack Developer | 🧠 Problem Solver | 🚀 Lifelong Learner</p>
+<h1 align="center">Hey there, I'm Md. Rakib Shahriar </h1>
+<p align="center"> Full-stack Developer |  Problem Solver |  Lifelong Learner</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=600&lines=JavaScript+%7C+Node.js+%7C+Flutter+%7C+Firebase;Building+Chat+Apps+%26+Realtime+Projects;Debugging+One+Bug+at+a+Time..." alt="Typing SVG" />
@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -26,7 +26,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdrakibshahriar&show_icons=true&theme=tokyonight" />
@@ -39,27 +39,27 @@
 </div>
 
 ---
-### 🚀 Live Projects (Coming Soon on Vercel)
+###  Live Projects (Coming Soon on Vercel)
 
 | Project | Status | Deployment |
 |--------|--------|------------|
-| **Chat App** | 🔧 In Progress | Coming soon |
-| **Flutter Portfolio Site** | 🎨 Design Phase | Coming soon |
-| **Node.js API Backend** | 🔬 Testing | Coming soon |
+| **Chat App** | Completed | Coming soon |
+| **Bongo Cart** |  Development | Coming soon |
+| **Node.js API Backend** |  Testing | Coming soon |
 
 
 
 
 ---
 
-### 🚀 Projects I'm Working On
-- 🔥 Real-time Chat App using Firebase Realtime DB
-- 📦 MVVM Architecture in Flutter (Hive + Provider/GetX)
-- 📡 Full-stack Apps with Node.js + Express + Firebase
+###  Projects I'm Working On
+-  Real-time Chat App using Firebase Realtime DB
+-  MVVM Architecture in Flutter (Hive + Provider/GetX)
+-  Full-stack Apps with Node.js + Express + Firebase
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 
 <p align="center">
   <a href="mailto:rakibshahriar9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -69,6 +69,6 @@
 
 ---
 
-> ✨ “Every bug is a lesson dressed as an error.”  
-> 🧠 “Dream big, debug patiently.”
+>  “Every bug is a lesson dressed as an error.”  
+>  “Dream big, debug patiently.”
 
