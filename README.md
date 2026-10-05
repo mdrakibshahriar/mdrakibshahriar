@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/GetX-purple?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Provider-5C6BC0?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bloc-02b5ac?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Hosted%20on-Vercel-black?style=flat&logo=vercel" />
   
@@ -56,6 +57,7 @@
 -  Real-time Chat App using Firebase Realtime DB
 -  MVVM Architecture in Flutter (Hive + Provider/GetX)
 -  Full-stack Apps with Node.js + Express + Firebase
+-  Clean Architecture (Bloc)
 
 ---
 
